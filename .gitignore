@@ -7,3 +7,12 @@
 # Arquivos da IDE
 .idea/
 *.iml
+
+# Extensões e cache do VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# Arquivos de sistema
+Thumbs.db
+.DS_Store

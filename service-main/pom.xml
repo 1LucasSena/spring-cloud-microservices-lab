@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lucassena</groupId>
-	<artifactId>service.main</artifactId>
+	<artifactId>serviceMain</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
+	<name>service_main</name>
 	<description/>
 	<url/>
 	<licenses>
